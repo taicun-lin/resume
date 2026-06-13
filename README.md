@@ -7,17 +7,17 @@
 
 
 ##  ▌學歷
- [碩士｜國立臺灣大學｜醫療器材與醫學影像研究所](#link-ntu)  
- [學士｜輔仁大學｜資訊工程學系](#link-fju)
+ [碩士｜國立臺灣大學｜醫療器材與醫學影像研究所](https://github.com/taicun-lin/resume/issues/3#link-ntu)  
+ [學士｜輔仁大學｜資訊工程學系](https://github.com/taicun-lin/resume/issues/3#link-fju)
 
 ##  ▌工作經歷
 | Period | Company | Position |
 |---------|---------|----------|
-| 2023–Present | [iEi](#link-iei) | Principal AI Application Engineer |
-| 2021–2022 | [Blueskies.AI](#link-blueskies) | Service Manager |
-| 2015–2021 | [Intel](#link-intel) | AIoT Software Engineer |
-| 2014–2015 | [Microsoft](#link-microsoft) | Technical Account Manager |
-| 2013–2014 | [acer](#link-acer) | Security Engineer |
+| 2023–Present | [iEi](https://github.com/taicun-lin/resume/issues/3#link-iei) | Principal AI Application Engineer |
+| 2021–2022 | [Blueskies.AI](https://github.com/taicun-lin/resume/issues/3#link-blueskies) | Service Manager |
+| 2015–2021 | [Intel](https://github.com/taicun-lin/resume/issues/3#link-intel) | AIoT Software Engineer |
+| 2014–2015 | [Microsoft](https://github.com/taicun-lin/resume/issues/3#link-microsoft) | Technical Account Manager |
+| 2013–2014 | [acer](https://github.com/taicun-lin/resume/issues/3#link-acer) | Security Engineer |
 
 
 ##  ▌專業摘要
