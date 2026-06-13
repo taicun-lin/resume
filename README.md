@@ -1,7 +1,7 @@
 ##  ▌基本資料
-**姓名:** 林泰村 Taicun Lin 
-**職稱:** AIoT Software Engineer 
-**信箱:** mojocuncun@gmail.com 
+**姓名:** 林泰村 Taicun Lin  
+**職稱:** AIoT Software Engineer  
+**信箱:** mojocuncun@gmail.com   
  
 <img width="225" height="200" alt="Image" src="https://github.com/user-attachments/assets/3965b496-adb3-4877-80a7-a97cd1182a11" />
 
