@@ -36,5 +36,5 @@ AIoT and Edge AI application engineer with over 10 years of experience in softwa
 * Experienced in requirements analysis, proof-of-concept development, demo systems, reference designs, and customer deployment projects.
 
 ##  ▌Detail CV Link
-- [Curriculum-Vitae(EN)](https://github.com/taicun-lin/resume/issues/5)   
-- [Curriculum-Vitae(CN)](https://github.com/taicun-lin/resume/issues/1)   
+- [Curriculum-Vitae(EN)](https://github.com/taicun-lin/resume/issues/1)   
+- [Curriculum-Vitae(CN)](https://github.com/taicun-lin/resume/issues/5)   
