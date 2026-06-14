@@ -9,9 +9,10 @@
 
 ##  ▌Education
 
-[Master's Degree｜National Taiwan University｜Institute of Medical Device and Imaging](https://github.com/taicun-lin/resume/issues/1#link-ntu)      
-[Bachelor's Degree｜Fu Jen Catholic University｜Department of Computer Science and Information Engineering](https://github.com/taicun-lin/resume/issues/1#link-fju)    
-
+```
+Master's Degree  ｜National Taiwan University｜Institute of Medical Device and Imaging
+Bachelor's Degree｜Fu Jen Catholic University｜Department of Computer Science and Information Engineering
+```
 
 ##  ▌Professional Experience
 
