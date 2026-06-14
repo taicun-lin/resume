@@ -14,7 +14,7 @@ Master  ｜National Taiwan University｜Institute of Medical Device and Imaging
 Bachelor｜Fu Jen Catholic University｜Department of Computer Science and Information Engineering
 ```
 
-##  ▌Professional Experience
+##  ▌Experience
 
 | Period | Company | Position |
 |---------|---------|----------|
@@ -25,7 +25,7 @@ Bachelor｜Fu Jen Catholic University｜Department of Computer Science and Infor
 | 2013–2014 | [acer](https://github.com/taicun-lin/resume/issues/1#link-acer) | Security Engineer |
 
 
-##  ▌Professional Summary
+##  ▌Summary
 
 AIoT and Edge AI application engineer with over 10 years of experience in software development, industrial automation, and intelligent device integration, focusing on AI validation, deployment, and real-world implementation.
 
