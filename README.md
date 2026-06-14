@@ -2,7 +2,7 @@
 
 **Name:** Taicun Lin  林泰村    
 **Title:** AIoT Software Engineer     
-**Email:** mojocuncun@gmail.com     
+**Email:** taicunlin@gmail.com     
 
 <img width="225" height="200" alt="Image" src="https://github.com/user-attachments/assets/943d0dcc-6157-4ea6-a4ab-ad199f49f191" />
 
