@@ -35,6 +35,6 @@ AIoT and Edge AI application engineer with over 10 years of experience in softwa
 * Experienced in evaluating, validating, and deploying Intel, NVIDIA, AMD, and various AI accelerator platforms, with hands-on experience in heterogeneous computing architecture planning and solution design.
 * Experienced in requirements analysis, proof-of-concept development, demo systems, reference designs, and customer deployment projects.
 
-##  ▌Curriculum Vitae Link
+##  ▌Detail CV Link
 - [Curriculum-Vitae(EN)](https://github.com/taicun-lin/resume/issues/5)   
 - [Curriculum-Vitae(CN)](https://github.com/taicun-lin/resume/issues/1)   
