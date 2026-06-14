@@ -10,8 +10,8 @@
 ##  ▌Education
 
 ```
-Master's Degree  ｜National Taiwan University｜Institute of Medical Device and Imaging
-Bachelor's Degree｜Fu Jen Catholic University｜Department of Computer Science and Information Engineering
+Master  ｜National Taiwan University｜Institute of Medical Device and Imaging
+Bachelor｜Fu Jen Catholic University｜Department of Computer Science and Information Engineering
 ```
 
 ##  ▌Professional Experience
