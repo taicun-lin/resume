@@ -1,33 +1,39 @@
-##  ▌基本資料
-**姓名:** 林泰村 Taicun Lin  
-**職稱:** AIoT Software Engineer  
-**信箱:** taicunlin@gmail.com   
- 
-<img width="225" height="200" alt="Image" src="https://github.com/user-attachments/assets/3965b496-adb3-4877-80a7-a97cd1182a11" />
+##  ▌Profile
+
+**Name:** Taicun Lin  林泰村    
+**Title:** AIoT Software Engineer     
+**Email:** mojocuncun@gmail.com     
+
+<img width="225" height="200" alt="Image" src="https://github.com/user-attachments/assets/943d0dcc-6157-4ea6-a4ab-ad199f49f191" />
 
 
-##  ▌學歷
- [碩士｜國立臺灣大學｜醫療器材與醫學影像研究所](https://github.com/taicun-lin/resume/issues/3#link-ntu)  
- [學士｜輔仁大學｜資訊工程學系](https://github.com/taicun-lin/resume/issues/3#link-fju)
+##  ▌Education
 
-##  ▌工作經歷
+[Master's Degree｜National Taiwan University｜Institute of Medical Device and Imaging](https://github.com/taicun-lin/resume/issues/1#link-ntu)      
+[Bachelor's Degree｜Fu Jen Catholic University｜Department of Computer Science and Information Engineering](https://github.com/taicun-lin/resume/issues/1#link-fju)    
+
+
+##  ▌Professional Experience
+
 | Period | Company | Position |
 |---------|---------|----------|
-| 2023–Present | [iEi](https://github.com/taicun-lin/resume/issues/3#link-iei) | Principal AI Application Engineer |
-| 2021–2022 | [Blueskies.AI](https://github.com/taicun-lin/resume/issues/3#link-blueskies) | Service Manager |
-| 2015–2021 | [Intel](https://github.com/taicun-lin/resume/issues/3#link-intel) | AIoT Software Engineer |
-| 2014–2015 | [Microsoft](https://github.com/taicun-lin/resume/issues/3#link-microsoft) | Technical Account Manager |
-| 2013–2014 | [acer](https://github.com/taicun-lin/resume/issues/3#link-acer) | Security Engineer |
+| 2023–Present | [iEi](https://github.com/taicun-lin/resume/issues/1#link-iei) | Principal AI Application Engineer |
+| 2021–2022 | [Blueskies.AI](https://github.com/taicun-lin/resume/issues/1#link-blueskies) | Service Manager |
+| 2015–2021 | [Intel](https://github.com/taicun-lin/resume/issues/1#link-intel) | AIoT Software Engineer |
+| 2014–2015 | [Microsoft](https://github.com/taicun-lin/resume/issues/1#link-microsoft) | Technical Account Manager |
+| 2013–2014 | [acer](https://github.com/taicun-lin/resume/issues/1#link-acer) | Security Engineer |
 
 
-##  ▌專業摘要
-AIoT 與 Edge AI 應用工程師，具備超過 10 年軟體開發、工業自動化及智慧設備整合經驗，專注於 AI 技術於實際場域之驗證、部署與落地。
-* 具備從感測器整合、資料蒐集、設備聯網、AI 推論、邊緣運算到系統部署之完整開發經驗。
-* 熟悉 Python、C#、OpenCV、OpenVINO 等軟體開發與電腦視覺技術，具備智慧監控、工業視覺與 AIoT 解決方案開發能力。
-* 曾於 Intel、AI 新創及工業電腦產業負責技術支援、產品驗證、平台開發、生態系推廣與客戶導入。
-* 熟悉 Intel、NVIDIA、AMD 及各類 AI Accelerator 平台之評估、驗證與部署流程，具備異質運算架構規劃與解決方案設計經驗。
-* 具備需求分析、概念驗證（PoC）、展示系統（Demo）、參考設計（Reference Design）及客戶導入等完整專案經驗。
+##  ▌Professional Summary
 
-##  ▌詳細履歷連結
-- [Resume(EN)](https://github.com/taicun-lin/resume/issues/4)   
-- [Resume(CN)](https://github.com/taicun-lin/resume/issues/3)   
+AIoT and Edge AI application engineer with over 10 years of experience in software development, industrial automation, and intelligent device integration, focusing on AI validation, deployment, and real-world implementation.
+
+* Experienced in end-to-end solution development, including sensor integration, data acquisition, device connectivity, AI inference, edge computing, and system deployment.
+* Proficient in Python, C#, OpenCV, and OpenVINO, with experience in computer vision, intelligent surveillance, industrial vision, and AIoT solution development.
+* Worked across Intel, AI startups, and the industrial computing industry, covering technical support, product validation, platform development, ecosystem enablement, and customer deployment.
+* Experienced in evaluating, validating, and deploying Intel, NVIDIA, AMD, and various AI accelerator platforms, with hands-on experience in heterogeneous computing architecture planning and solution design.
+* Experienced in requirements analysis, proof-of-concept development, demo systems, reference designs, and customer deployment projects.
+
+##  ▌Curriculum Vitae Link
+- [Curriculum-Vitae(EN)](https://github.com/taicun-lin/resume/issues/5)   
+- [Curriculum-Vitae(CN)](https://github.com/taicun-lin/resume/issues/1)   
